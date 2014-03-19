@@ -1,4 +1,5 @@
 Noip.com-Weblogin
 =================
 
-This Perl-Skript does automaticly Login to no-ip.com in case of the Free-User restriction
+This Perl-Skript login automatically to noip.com. 
+You just have to edit your account credentials on line 5 and 6.
